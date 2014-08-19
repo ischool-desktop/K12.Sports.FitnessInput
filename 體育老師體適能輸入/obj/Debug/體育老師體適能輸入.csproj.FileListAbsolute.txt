@@ -1,0 +1,8 @@
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\bin\Debug\K12.Sports.FitnessInput.dll
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\bin\Debug\K12.Sports.FitnessInput.pdb
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\obj\Debug\K12.Sports.FitnessInput.InputDateSettingForm.resources
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\obj\Debug\體育老師體適能輸入.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\obj\Debug\K12.Sports.FitnessInput.dll
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\obj\Debug\K12.Sports.FitnessInput.pdb
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\obj\Debug\K12.Sports.FitnessInput.Properties.Resources.resources
+C:\Users\Aaron\Desktop\huangwc_desktop\dev.sh_d\體育老師體適能輸入\obj\Debug\體育老師體適能輸入.csprojResolveAssemblyReference.cache
