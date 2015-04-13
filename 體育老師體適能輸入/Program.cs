@@ -13,6 +13,8 @@ namespace K12.Sports.FitnessInput
         [MainMethod()]
         static public void Main()
         {
+            FISCA.ServerModule.AutoManaged("http://module.ischool.com.tw/module/193005/fitness.inquire/udm.xml");
+
             RibbonBarItem item = MotherForm.RibbonBarItems["學生", "體適能"];
             item["設定"].Image = Properties.Resources.設定;
             item["設定"].Size = RibbonBarButton.MenuButtonSize.Large;
